@@ -1,0 +1,10 @@
+.positions, .trades{
+    background-color: rgb(225, 225, 225);
+    font-size: 20px;
+    padding: 5px;
+    border: 1px solid black;
+    box-shadow: 10px 10px #bab2b2;
+    width: 44%;
+    margin: 20px;
+    display: inline-block;
+}
